@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Unsplash API
-[[httpshttps://unsplash.com/developers](https://unsplash.com/developers)]
+[httpshttps://unsplash.com/developers](https://unsplash.com/developers)
