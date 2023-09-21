@@ -24,7 +24,7 @@ export function generateMetadata({ params: { topic } }: PageProps): Metadata {
 
 export default async function Page({ params: { topic } }: PageProps) {
   const response = await fetch(
-    `https://api.unsplash.com/photos/random?query=${topic}&count=30&client_id=${process.env.UNSPLASH_ACCESS_KEY}`,
+    `${process.env.BASE_URL}/photos/random?query=${topic}&count=30&client_id=${process.env.UNSPLASH_ACCESS_KEY}`,
     {}
   );
 
