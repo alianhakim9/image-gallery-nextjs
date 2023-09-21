@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project build with purpose to learn how caching and difference between fetching data using server side rendering and client side rendering.
 
 ## Preview Website
-[https://image-gallery-alianhakim9.vercel.app/topics/skateboard]('https://image-gallery-alianhakim9.vercel.app/topics/skateboard')
+![https://image-gallery-alianhakim9.vercel.app/topics/skateboard]('https://image-gallery-alianhakim9.vercel.app/topics/skateboard')
 
 ## Getting Started
 
@@ -40,4 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Unsplash API
-[httpshttps://unsplash.com/developers](https://unsplash.com/developers)
+![https://unsplash.com/developers](https://unsplash.com/developers)
