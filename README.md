@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project build with purpose to learn how caching and difference between fetching data using server side rendering and client side rendering.
 
 ## Preview Website
-Click [here]('https://image-gallery-alianhakim9.vercel.app/topics/skateboard') to see the demo web
+Click [here](https://image-gallery-alianhakim9.vercel.app/topics/skateboard) to see the demo web
 
 ## Getting Started
 
